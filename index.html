@@ -25,15 +25,18 @@ layout: default
 -->
 
 <div class="row">
-  {% for post in site.posts %}
+  {% for project in site.projects %}
     <div class="column small-2 medium-4 tile">
+    <a href="{{ project.url | prepend: site.baseurl }}">
       <div class="thumbnail-container">
-        <img src="../img/eddy.png" class="thumbnail-image"/>
+        <img src="../img/thumbnails/{{ project.thumbnail }}" class="thumbnail-image"/>
         <div class="thumbnail-text">
-          <span class="thumbnail-header">WALNUT AND GLASS TABLE</span>
-        <span class="thumbnail-tag">Furniture</span>
+        <span class="thumbnail-header">{{ project.title }}</span>
+        <br>
+        <span class="thumbnail-tag">{{ project.tag }}</span>
         </div>
       </div>
+     </a>
     </div>
   {% endfor %}
 </div>

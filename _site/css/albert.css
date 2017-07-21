@@ -84,9 +84,12 @@
   opacity: 0; }
 
 .thumbnail-header {
-  color: white; }
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase; }
 
 .thumbnail-tag {
+  font-weight: 400;
   color: white; }
 
 body {
@@ -108,3 +111,6 @@ h1 {
 h2 {
   font-size: 24px;
   font-weight: 700; }
+
+.post {
+  margin-top: 50px; }
