@@ -4,7 +4,8 @@
 
 .side-nav {
   position: fixed;
-  background-color: white; }
+  background-color: white;
+  z-index: 2; }
 
 .off-canvas.position-left {
   width: 200px; }
