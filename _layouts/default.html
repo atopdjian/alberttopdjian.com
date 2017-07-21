@@ -4,17 +4,18 @@
   {% include head.html %}
 
   <body>
+    <div class="off-canvas-wrapper">
+      <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+      {% include header.html %}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+        <div class="off-canvas-content" data-off-canvas-content>
+          {% include header-mobile.html %}
+          {{ content }}
+        </div>
       </div>
+    
+      {% include footer.html %}
     </div>
-
-    {% include footer.html %}
-
+    
   </body>
-
 </html>
