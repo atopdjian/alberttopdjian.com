@@ -1,2 +1,0 @@
-# alberttopdjian.com
-my site
