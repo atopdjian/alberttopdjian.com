@@ -29,7 +29,6 @@ $black: 900;
     }
 
 .nav-content {
-    width: 200px;
     height: 100vh;
     position: relative;
     padding: 50px;
@@ -67,8 +66,10 @@ $black: 900;
     font-size: 9px;
 }
 
+@media screen and (min-width: 64em) {
 .position-left.reveal-for-large~.off-canvas-content {
     margin-left: 200px;
+}
 }
 
 .thumbnail {
@@ -105,6 +106,7 @@ $black: 900;
   .thumbnail-container:hover .thumbnail-text {
     opacity: 1;
   }
+ 
   
   .thumbnail-container:hover .thumbnail-image {
     opacity: 0.6;
@@ -114,11 +116,43 @@ $black: 900;
     width: 100%;
     opacity: 1;
   }
-  
-  .thumbnail-text {
+
+.thumbnail-text {
     position: absolute;
-    bottom: 10px;
-    left: 10px;
-    color: #FFF;
+    top: 0px;
+    left: 0px;
+    padding: 40px;
     opacity: 0;
+}
+
+  .thumbnail-header {
+    color: white;
   }
+    
+.thumbnail-tag {
+    color: white;
+}
+
+body {
+    background-color: white;
+    font-family: $font-default;
+    color: $dio-black;
+    font-weight: $regular;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: $font-default;
+}
+
+h1 {
+    font-weight: $black;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: $bold;
+}

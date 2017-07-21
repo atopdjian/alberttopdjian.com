@@ -10,7 +10,6 @@
   width: 200px; }
 
 .nav-content {
-  width: 200px;
   height: 100vh;
   position: relative;
   padding: 50px; }
@@ -36,9 +35,9 @@
   margin-top: 10px;
   font-size: 9px; }
 
-.position-left.reveal-for-large ~ .off-canvas-content {
-  margin-left: 200px; }
-
+@media screen and (min-width: 64em) {
+  .position-left.reveal-for-large ~ .off-canvas-content {
+    margin-left: 200px; } }
 .thumbnail {
   border: 0px;
   box-shadow: 0 0 0 0px;
@@ -78,7 +77,33 @@
 
 .thumbnail-text {
   position: absolute;
-  bottom: 10px;
-  left: 10px;
-  color: #FFF;
+  top: 0px;
+  left: 0px;
+  padding: 40px;
   opacity: 0; }
+
+.thumbnail-header {
+  color: white; }
+
+.thumbnail-tag {
+  color: white; }
+
+body {
+  background-color: white;
+  font-family: "Lato", sans-serif;
+  color: #313131;
+  font-weight: 400; }
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Lato", sans-serif; }
+
+h1 {
+  font-weight: 900;
+  font-size: 36px; }
+
+h2 {
+  font-size: 24px;
+  font-weight: 700; }
