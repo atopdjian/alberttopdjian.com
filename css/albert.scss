@@ -3,6 +3,122 @@
 
 
 // Foundation Overrides
+
+$purple: #742bb5;
+$purple-hover: red;
+$dio-black: #313131;
+
+//Fonts
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+$font-default: 'Lato', sans-serif;
+$regular: 400;
+$bold: 700;
+$black: 900;
+
 .column:last-child{
   float: left;
 }
+
+.side-nav {
+    position: fixed;
+    background-color: white;
+}
+
+.off-canvas.position-left {
+        width: 200px;   
+    }
+
+.nav-content {
+    width: 200px;
+    height: 100vh;
+    position: relative;
+    padding: 50px;
+}
+
+
+.nav-labels {
+    a {
+        color: $purple;
+        &:hover {
+            text-decoration: none;
+            color: lighten($purple, 30%);
+        }
+    }
+    
+}
+
+.nav-footer {
+    bottom: 30px;
+    position: absolute;
+}
+
+.social-icon {
+    height: 20px;
+    width: 20px;
+    &:hover {
+            opacity: 0.75;
+        }
+}
+
+
+.name {
+    color: $purple;
+    margin-top: 10px;
+    font-size: 9px;
+}
+
+.position-left.reveal-for-large~.off-canvas-content {
+    margin-left: 200px;
+}
+
+.thumbnail {
+    border: 0px;
+    box-shadow: 0 0 0 0px;
+    display: inline-block;
+    line-height: 0;
+    max-width: 100%;
+    transition: box-shadow .2s ease-out;
+    border-radius: 0;
+    margin-bottom: 0rem;
+}
+
+.column{
+    padding: 0px;
+}
+
+.off-canvas-content {
+    min-height: 100%;
+    background: #fefefe;
+    transition: transform .5s ease;
+    backface-visibility: hidden;
+    z-index: 1;
+    box-shadow: 0 0 0px;
+}
+
+.thumbnail-container {
+    position: relative;
+    display: block;
+    background-color: #000;
+    opacity: 1;
+  }
+  
+  .thumbnail-container:hover .thumbnail-text {
+    opacity: 1;
+  }
+  
+  .thumbnail-container:hover .thumbnail-image {
+    opacity: 0.6;
+  }
+  
+  .thumbnail-image {
+    width: 100%;
+    opacity: 1;
+  }
+  
+  .thumbnail-text {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #FFF;
+    opacity: 0;
+  }
