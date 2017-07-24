@@ -115,6 +115,5 @@ h2 {
 .post {
   margin-top: 50px; }
 
-@media screen and (min-width: 64em) {
-  .row {
-    margin-right: 150px; } }
+.row {
+  margin-left: 0px; }
