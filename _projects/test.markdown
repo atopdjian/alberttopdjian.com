@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 3
 title: "Test"
 date: 2016-11-25
 tag: Huh

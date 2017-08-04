@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 4
 title: "Walnut and Glass Table"
 date: 2016-11-25
 tag: Furniture

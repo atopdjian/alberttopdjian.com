@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 2
 title: "Nathan's Toy"
 date: 2016-11-25
 tag: Furniture
