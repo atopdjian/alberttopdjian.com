@@ -47,6 +47,19 @@ $black: 900;
     
 }
 
+a {
+    color: $purple;
+    &:visited {
+        color: $purple;
+    }
+    &:hover {
+        text-decoration: none;
+        color: lighten($purple, 30%);
+    }
+    
+}
+
+
 .nav-footer {
     bottom: 30px;
     position: absolute;
@@ -65,12 +78,6 @@ $black: 900;
     color: $purple;
     margin-top: 10px;
     font-size: 9px;
-}
-
-@media screen and (min-width: 64em) {
-.position-left.reveal-for-large~.off-canvas-content {
-    margin-left: 200px;
-}
 }
 
 .thumbnail {
@@ -167,4 +174,60 @@ h2 {
 
 .row {
     margin-left: 0px;
+}
+
+.mobileheader {
+    height: 50px;
+    background-color: $purple;
+}
+
+.hamburger {
+    margin-left: 30px;
+}
+
+.menu-icon {
+    height: 14px;
+}
+
+.post {
+   background-color: white;
+    max-width: 800px;
+}
+
+.about-sub {
+    padding-top: 20px;
+}
+
+.about-body {
+    padding-left: 40px;
+}
+
+ul {
+    margin-left: 0px;
+    list-style: none;
+}
+
+@media screen and (min-width: 64em) {
+.position-left.reveal-for-large~.off-canvas-content {
+    margin-left: 200px;
+}
+}
+
+/*(for mobile styling) */
+@media screen and (max-width: 40em) {
+    .post {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .about-body {
+    padding-left: 10px;
+    }
+}
+
+/*(for tablet styling) */
+@media screen and (max-width: 64em) {
+    .post {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }
