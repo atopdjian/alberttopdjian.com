@@ -7,6 +7,8 @@
 $purple: #742bb5;
 $purple-hover: red;
 $dio-black: #313131;
+$nav-width: 250px;
+$nav-width-negative: -$nav-width;
 
 //Fonts
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
@@ -26,13 +28,16 @@ $black: 900;
 }
 
 .off-canvas.position-left {
-        width: 200px;   
+        width: 180px;   
     }
 
 .nav-content {
     height: 100vh;
     position: relative;
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
@@ -102,6 +107,10 @@ a {
     backface-visibility: hidden;
     z-index: 1;
     box-shadow: 0 0 0px;
+}
+
+.off-canvas-wrapper{
+   height: 100vh;
 }
 
 .thumbnail-container {
@@ -182,8 +191,15 @@ h2 {
 }
 
 .hamburger {
-    margin-left: 30px;
+    margin-left: 10px;
 }
+
+.is-open-left {
+    -webkit-transform: translateX(180px); 
+    -ms-transform: translateX(180px);
+    transform: translateX(180px);
+}
+
 
 .menu-icon {
     height: 14px;
@@ -209,7 +225,7 @@ ul {
 
 @media screen and (min-width: 64em) {
 .position-left.reveal-for-large~.off-canvas-content {
-    margin-left: 200px;
+    margin-left: 180px;
 }
 }
 
@@ -222,6 +238,15 @@ ul {
     .about-body {
     padding-left: 10px;
     }
+    
+    .nav-content {
+    height: 100vh;
+    position: relative;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }   
 }
 
 /*(for tablet styling) */
@@ -230,4 +255,12 @@ ul {
         margin-left: 20px;
         margin-right: 20px;
     }
+       .nav-content {
+    height: 100vh;
+    position: relative;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }   
 }
