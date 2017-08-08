@@ -25,6 +25,7 @@
     color: #bf94e5; }
 
 a {
+  cursor: pointer;
   color: #742bb5; }
   a:visited {
     color: #742bb5; }

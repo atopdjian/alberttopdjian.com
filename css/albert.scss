@@ -53,6 +53,7 @@ $black: 900;
 }
 
 a {
+    cursor: pointer;
     color: $purple;
     &:visited {
         color: $purple;
