@@ -184,7 +184,8 @@ ul {
 
 ::-moz-selection {
   background: #742bb5;
-  /* Gecko Browsers */ }
+  /* Gecko Browsers */
+  color: white; }
 
 @media screen and (min-width: 64em) {
   .position-left.reveal-for-large ~ .off-canvas-content {
