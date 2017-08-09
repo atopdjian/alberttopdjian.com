@@ -240,6 +240,24 @@ ul {
     display: inline-block;
 }
 
+.post-content {
+    padding-top: 50px;
+}
+
+.post-title {
+    margin-bottom: -10px;
+}
+
+::selection {
+  background: $purple; /* WebKit/Blink Browsers */
+    color: white;
+}
+::-moz-selection {
+  background: $purple; /* Gecko Browsers */
+    color: white;
+}
+}
+
 @media screen and (min-width: 64em) {
 .position-left.reveal-for-large~.off-canvas-content {
     margin-left: 180px;

@@ -171,6 +171,21 @@ ul {
 .albert-container:hover img:last-child {
   display: inline-block; }
 
+.post-content {
+  padding-top: 50px; }
+
+.post-title {
+  margin-bottom: -10px; }
+
+::selection {
+  background: #742bb5;
+  /* WebKit/Blink Browsers */
+  color: white; }
+
+::-moz-selection {
+  background: #742bb5;
+  /* Gecko Browsers */ }
+
 @media screen and (min-width: 64em) {
   .position-left.reveal-for-large ~ .off-canvas-content {
     margin-left: 180px; } }
