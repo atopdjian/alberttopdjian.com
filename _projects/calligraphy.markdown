@@ -3,7 +3,7 @@ layout: post
 order: 1
 title: "Calligraphy"
 date: 2016-11-25
-tag: Craft
+tag: Typography
 span: Ongoing
 thumbnail: eddy.png
 ---
