@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-
+<div class="aboutcontent">
 <div class="row">
     <div class="column small-12 medium-4">
     <div class="albert-container">
@@ -16,7 +15,7 @@ permalink: /about/
     </ul>
     </div>
     <div class="column small-12 medium-8 about-body">
-    <p>Hi there! My name is Albert but it’s pronounced Al-bear (the “t” is silent). It’s how the French say it. Think of Colbert but replace the “Co” with an “A”.</p>
+    <p>Hi there! My name is Albert but it’s pronounced the French way (the “t” is silent). Think of Colbert but replace the “Co” with an “A”.</p>
 
 <p>Lately my efforts and passion have been towards Co-founding my startup called <a target="_blanl" href="https://processly.io/">Processly</a>. I work with my amazing cofounders everyday to redefine how students learn and how teachers teach as we enter the digital age of learning.</p> 
 
@@ -29,4 +28,6 @@ permalink: /about/
 
 <p>Other than my professional accomplishments, I love to cook, bike, windsurf, and play jazz music on any instrument that I can find.</p>
 
-<p>The goal of this site is to keep track of projects, activities, and thoughts that I have done and to share it with you in hopes that you can learn something from them. If you have any questions and/or comments don’t hesitate to reach out.</p> 
+<p>The goal of this site is to keep track of projects, activities, and thoughts that I have done and to share it with you in hopes that you can learn something from them. If you have any questions and/or comments don’t hesitate to reach out through <a target="_blank" href="https://www.linkedin.com/in/alberttopdjian">Linkedin</a> or <a target="_blank" href="https://twitter.com/alberttopdjian">Twitter</a>.
+
+
