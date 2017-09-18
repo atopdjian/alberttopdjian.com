@@ -75,14 +75,18 @@ a {
 .thumbnail-container {
   position: relative;
   display: block;
-  background-color: #000;
+  background-color: white;
   opacity: 1; }
 
 .thumbnail-container:hover .thumbnail-text {
   opacity: 1; }
 
 .thumbnail-container:hover .thumbnail-image {
-  opacity: 0.6; }
+  opacity: 0.1;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
 
 .thumbnail-image {
   width: 100%;
@@ -96,13 +100,13 @@ a {
   opacity: 0; }
 
 .thumbnail-header {
-  color: white;
+  color: #742bb5;
   font-weight: 700;
   text-transform: uppercase; }
 
 .thumbnail-tag {
   font-weight: 400;
-  color: white; }
+  color: #742bb5; }
 
 body {
   background-color: white;
