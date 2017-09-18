@@ -15,7 +15,7 @@ permalink: /about/
     </ul>
     </div>
     <div class="column small-12 medium-8 about-body">
-    <p>Hi there! My name is Albert but it’s pronounced the French way (the “t” is silent). Think of Colbert but replace the “Co” with an “A”.</p>
+    <p>Hi there! My name is Albert but it’s pronounced Al-bear, the French way (the “t” is silent).</p>
 
 <p>Lately my efforts and passion have been towards Co-founding my startup called <a target="_blanl" href="https://processly.io/">Processly</a>. I work with my amazing cofounders everyday to redefine how students learn and how teachers teach as we enter the digital age of learning.</p> 
 
