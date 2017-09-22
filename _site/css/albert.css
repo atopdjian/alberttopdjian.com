@@ -100,13 +100,13 @@ a {
   opacity: 0; }
 
 .thumbnail-header {
-  color: #742bb5;
+  color: black;
   font-weight: 700;
   text-transform: uppercase; }
 
 .thumbnail-tag {
   font-weight: 400;
-  color: #742bb5; }
+  color: black; }
 
 body {
   background-color: white;
