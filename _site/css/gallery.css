@@ -22,9 +22,6 @@
   position: relative;
   box-sizing: border-box; }
 
-.gallery {
-  height: 200px; }
-
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;

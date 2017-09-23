@@ -31,17 +31,17 @@ With the information that we got in our first few visits, we mapped out our thou
 <div class="slideshow-container">   
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="../img/albert.png" style="width:100%" class="galleryimg">
+    <img src="../img/albert.png" style="width:" class="galleryimg">
     <div class="text"></div>
   </div>
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="../img/alberthover.png" style="width:100%" class="galleryimg">
+    <img src="../img/alberthover.png" style="width:" class="galleryimg">
     <div class="text"></div>
   </div>
   <div class="mySlides fade">
     <div class="numbertext"></div>
-    <img src="../img/thumbnails/otter.jpg" style="width:100%" class="galleryimg">
+    <img src="../img/thumbnails/otter.jpg" style="width:" class="galleryimg">
     <div class="text"></div>
   </div>
 
