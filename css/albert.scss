@@ -17,6 +17,14 @@ $regular: 400;
 $bold: 700;
 $black: 900;
 
+.albert-container {
+    -moz-user-select: none; 
+-khtml-user-select: none; 
+-webkit-user-select: none; 
+/* Introduced in IE 10. See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/ */ 
+-ms-user-select: none; user-select: none; 
+}
+
 .column:last-child{
   float: left;
 }
@@ -117,7 +125,7 @@ a {
 .thumbnail-container {
     position: relative;
     display: block;
-    background-color: #000;
+    background-color: white;
     opacity: 1;
   }
   
@@ -127,8 +135,21 @@ a {
  
   
   .thumbnail-container:hover .thumbnail-image {
-    opacity: 0.6;
+      opacity: 0.05;
+       -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
   }
+
+.thumbnail-container:hover .thumbnail-text {
+      opacity: 1;
+       -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
+  
   
   .thumbnail-image {
     width: 100%;
@@ -144,14 +165,14 @@ a {
 }
 
   .thumbnail-header {
-    color: white;
+    color: black;
     font-weight: $bold;
     text-transform: uppercase;
   }
     
 .thumbnail-tag {
     font-weight: $regular;
-    color: white;
+    color: black;
 }
 
 body {
@@ -245,7 +266,7 @@ ul {
 }
 
 .post-content {
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 .post-title {
