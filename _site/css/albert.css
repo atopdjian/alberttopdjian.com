@@ -82,7 +82,14 @@ a {
   opacity: 1; }
 
 .thumbnail-container:hover .thumbnail-image {
-  opacity: 0.1;
+  opacity: 0.05;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
+.thumbnail-container:hover .thumbnail-text {
+  opacity: 1;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -179,7 +186,7 @@ ul {
   display: inline-block; }
 
 .post-content {
-  padding-top: 50px; }
+  padding-top: 20px; }
 
 .post-title {
   margin-bottom: -10px; }
