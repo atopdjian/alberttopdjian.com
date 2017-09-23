@@ -5,7 +5,7 @@ title: "American Eagle Outfitters"
 date: 2016-05-25
 tag: UX
 span: Ongoing
-thumbnail: ipadscreens.png
+thumbnail: aeo.png
 ---
 **This project was in collaboration with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve their associate-customer experience.**
 
