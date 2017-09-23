@@ -28,6 +28,7 @@ permalink: /about/
 
 <p>Other than my professional accomplishments, I love to cook, bike, windsurf, and play jazz music on any instrument that I can find.</p>
 
-<p>The goal of this site is to keep track of projects, activities, and thoughts that I have done and to share it with you in hopes that you can learn something from them. If you have any questions and/or comments don’t hesitate to reach out through <a target="_blank" href="https://www.linkedin.com/in/alberttopdjian">Linkedin</a> or <a target="_blank" href="https://twitter.com/alberttopdjian">Twitter</a>.
-
-
+<p>The goal of this site is to keep track of projects, activities, and thoughts that I have done and to share it with you in hopes that you can learn something from them. If you have any questions and/or comments don’t hesitate to reach out through <a target="_blank" href="https://www.linkedin.com/in/alberttopdjian">Linkedin</a> or <a target="_blank" href="https://twitter.com/alberttopdjian">Twitter</a>. </p>
+</div>
+</div>
+</div>

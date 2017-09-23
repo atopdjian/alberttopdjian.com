@@ -27,8 +27,40 @@ Our team worked with the Monroeville Mall location to understand how the MPOS wo
 
 With the information that we got in our first few visits, we mapped out our thoughts and insights to create concept, journey and experience maps about the MPOS experience.
 
-
 <div class="gallery">
+<div class="slideshow-container">   
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="../img/albert.png" style="width:100%" class="galleryimg">
+    <div class="text"></div>
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="../img/alberthover.png" style="width:100%" class="galleryimg">
+    <div class="text"></div>
+  </div>
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="../img/thumbnails/otter.jpg" style="width:100%" class="galleryimg">
+    <div class="text"></div>
+  </div>
+
+   <a class="prev" onclick="plusSlides(-1)"><div class="arrow">&#10094;</div></a>
+  <a class="next" onclick="plusSlides(1)"><div class="arrow">&#10095;</div></a>
+</div>
+
+<div style="text-align:center" class="dots">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+</div>
+
+
+
+
+
+<!--<div class="gallery">
 <div class="slideshow-container" style="margin-bottom:50px">
   <div class="gallery-asset fade"> <img src="../img/albert.png" alt="The Idea" style="width:100%"> </div>
   <div class="gallery-asset fade"> <img src="../img/alberthover.png" alt="The Icon" style="width:100%"> </div>
@@ -42,9 +74,7 @@ With the information that we got in our first few visits, we mapped out our thou
   <div class="gallery-asset fade"> <img src="../img/ideate/slide10.png" alt="T-Shirt" style="width:100%"> </div>
   <div class="gallery-asset fade"> <img src="../img/ideate/slide11.png" alt="Business Cards" style="width:100%"> </div>
   <div class="gallery-asset fade"> <img src="../img/ideate/slide12.png" alt="Wall Sign" style="width:100%"> </div>
-  
-  
   <a class="prev" onclick="plusSlides(-1)"><div class="arrow">&#10094;</div></a>
   <a class="next" onclick="plusSlides(1)"><div class="arrow">&#10095;</div></a>
 </div>
-</div>
+</div> -->

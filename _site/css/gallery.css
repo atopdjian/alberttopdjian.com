@@ -1,6 +1,22 @@
 .gallery-asset {
   display: none; }
 
+.gallery {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /* Introduced in IE 10. See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/ */
+  -ms-user-select: none;
+  user-select: none; }
+
+.galleryimg {
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none; }
+
 /* Slideshow container */
 .slideshow-container {
   position: relative;
@@ -38,8 +54,12 @@ a.next, a.prev {
   display: inline-block;
   transition: background-color 0.6s ease; }
 
+.dots {
+  position: relative;
+  bottom: 40px; }
+
 .active, .dot:hover {
-  background-color: #717171; }
+  background-color: white; }
 
 /* Position the "next button" to the right */
 .next {
@@ -47,7 +67,7 @@ a.next, a.prev {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0, 0, 0, 0.6); }
+  background-color: rgba(0, 0, 0, 0.1); }
 
 .arrow {
   top: 50%;
