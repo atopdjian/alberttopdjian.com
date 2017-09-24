@@ -9,7 +9,8 @@
 title: Albert Topdjian
 email: 
 description: > # this means to ignore newlines until "baseurl:"
- A small snipet of Albert's projects, thoughts, and ideas in the realm of design, business, and technology.
+    A small snipet of Albert's projects, thoughts, and ideas in the realm of design, business, and technology.
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alberttopdjian.com" # the base hostname & protocol for your site
 twitter_username: 
