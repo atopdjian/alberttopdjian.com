@@ -34,7 +34,7 @@ With the information that we got in our first few visits, we mapped out our thou
     <img src="../img/albert.png" style="width:" class="galleryimg">
     <div class="text"></div>
   </div>
-  <div class="mySlides fade">
+  <div class="mySlides fade">   
     <div class="numbertext"></div>
     <img src="../img/alberthover.png" style="width:" class="galleryimg">
     <div class="text"></div>
