@@ -17,6 +17,16 @@ $regular: 400;
 $bold: 700;
 $black: 900;
 
+.inprogress {
+    font-family: $font-default;
+    font-size: 15px;
+    display: block;
+    position: relative;
+    text-align: center;
+    color: white;
+    background-color: $purple;
+}
+
 img {
         user-drag: none; 
 user-select: none;

@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 1
+order: 2
 title: "American Eagle Outfitters"
 date: 2016-05-25
 tag: UX
@@ -27,7 +27,7 @@ Our team worked with the Monroeville Mall location to understand how the MPOS wo
 
 With the information that we got in our first few visits, we mapped out our thoughts and insights to create concept, journey and experience maps about the MPOS experience.
 
-<div class="gallery">
+<!---<div class="gallery">
 <div class="slideshow-container">   
   <div class="mySlides fade">
     <div class="numbertext"></div>
@@ -45,17 +45,17 @@ With the information that we got in our first few visits, we mapped out our thou
     <div class="text"></div>
   </div>
 
-   <a class="prev" onclick="plusSlides(-1)"><div class="arrow">&#10094;</div></a>
+   <!---<a class="prev" onclick="plusSlides(-1)"><div class="arrow">&#10094;</div></a>
   <a class="next" onclick="plusSlides(1)"><div class="arrow">&#10095;</div></a>
 </div>
 
-<div style="text-align:center" class="dots">
+<!---<div style="text-align:center" class="dots">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 </div>
-
+--->
 
 
 
