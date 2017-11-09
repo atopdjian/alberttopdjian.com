@@ -36,6 +36,20 @@ user-select: none;
 -ms-user-select: none;
 }
 
+.bab {
+    width: 40%;
+    font-size: 25px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: $purple;
+    margin: 0 auto; 
+    border-radius: 15px;
+    &:hover {
+        opacity: 0.75;
+    }}
+
 .albert-container {
     -moz-user-select: none; 
 -khtml-user-select: none; 
@@ -326,6 +340,12 @@ ul {
     padding-top: 50px;
     padding-bottom: 50px;
     }   
+    
+    .bab {
+    font-size: 14px;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
 }
 
 /*(for tablet styling) */
