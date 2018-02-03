@@ -133,6 +133,18 @@ a {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
 
+.thumbnail-container .thumbnail-image {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
+.thumbnail-container .thumbnail-text {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
 .thumbnail-image {
   width: 100%;
   opacity: 1; }
