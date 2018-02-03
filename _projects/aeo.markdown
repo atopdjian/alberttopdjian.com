@@ -15,17 +15,21 @@ thumbnail: aeo.png
 User Research, Service + UX / UI Design
 In Collaboration with American Eagle Outfitters and <a target="_blank" href="http://psuntias.com/">Praewa Suntiasvaraporn</a>
 
-For our spring studio class, Products in Systems, we were assigned a semester-long project to work alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. 
+We spent 4 months working alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. 
 
-My role in the project was making most of the visual decisions and content, from drawing system maps to the final interface design tweaks. For the rest of the project from the online research phase to on-site research, and all the way to creating the final prototype, my partner and I worked very well together collaboratively. 
+My role in the project was making the visual decisions and content, from drawing system maps to the final interface design tweaks. For the rest of the project from the online research phase to on-site research, and all the way to creating the final prototype, my partner and I worked very well together collaboratively. 
 
-For this project, we had to conduct a lot of on-site research with both the associates and the store customers. We also did bi-weekly check-in presentations with 3 AEO representatives, and had the opportunity to present and demo our final product to corporate management at their headquarters.
+For this project, we conducted on-site research with both the associates and the store customers. We also did bi-weekly check-in presentations with AEO representatives, and had the opportunity to present and demo our final product to corporate management at their headquarters.
+
+<iframe style="margin-bottom:30px" width="100%" height="400" src="https://www.youtube.com/embed/TLeKtPEjSps?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Process
 
-Our team worked with the Monroeville Mall location to understand how the MPOS worked in the store. We started off our research by observing (fly on the wall), then we went into casual conversation, then into more formal interviews with both associates and customers.
+My partner and I worked with their Monroeville Mall location to understand how the MPOS worked in their store. We started off our research with observation (fly on the wall), followed by casual conversation, then conducted formal interviews with both associates and customers.
 
-With the information that we got in our first few visits, we mapped out our thoughts and insights to create concept, journey and experience maps about the MPOS experience.
+With the information that we learned in our visits, we mapped out our thoughts and insights to create concept, journey and experience maps about the MPOS experience.
+
+
 
 <!---<div class="gallery">
 <div class="slideshow-container">   
