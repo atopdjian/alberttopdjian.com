@@ -19,12 +19,11 @@ permalink: /about/
 
 <p>Lately my efforts and passion have been towards Co-founding my startup called <a target="_blanl" href="https://processly.io/">Processly</a>. I work with my amazing cofounders everyday to redefine how students learn and how teachers teach as we enter the digital age of learning.</p> 
 
-<p>My life journey has been complex and adventurous but here are some highlights:</p>
+<p>My life journey has been complex and adventurous (in my brief 22 years) but here are some highlights:</p>
 <ul>
 <li>- Graduated with a degree in Industrial Design from <a target="_blanl" href="https://design.cmu.edu/">Carnegie Mellon University</a></li>
 <li>- Have been mentored as an <a target="_blanl" href="http://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/experiential-learning/innovation-scholars/">Innovation Scholar</a> in the Center for Innovation and Entrepreneurship</li>
-<li>- Is a soft-goods designer for <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a> in Pittsburgh</li>
-<li>- Worked with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> as a UX Designer</li></ul>
+<li>- Is a soft-goods designer for <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a> in Pittsburgh</li></ul>
 
 <p>Other than my professional accomplishments, I love to cook, bike, windsurf, and play jazz music on any instrument that I can find.</p>
 

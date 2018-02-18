@@ -9,7 +9,7 @@ thumbnail: aeo.png
 ---
 **This project was in collaboration with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve their associate-customer experience.**
 
-<img src="../img/thumbnails/ipadscreens.png">
+<img src="../img/aeo/ipadscreens.png">
 
 **Mobile Point of Sale Optimization**<br>
 User Research, Service + UX / UI Design
