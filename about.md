@@ -10,22 +10,21 @@ permalink: /about/
     <img class="albert" src="/img/albert.png" alt="Albert" style="width: 100%;">
     <img class="albert-hover" src="/img/alberthover.png" alt="Silly Albert" style="width: 100%;">
     </div>
-    <ul class="about-sub"><strong>Job Status</strong><ul>Co-Founder @ <a target="_blanl" href="https://processly.io/">Processly</a> and <a target="_blank" href="https://dzgn.io/">DzgnIO</a></ul><ul>Product Developer @ <a target="_blank" href="http://www.lexicon-design.com/">Lexicon</a></ul>
-    <li><strong>Location</strong><ul>Pittsburgh, PA</ul></li>
+    <ul class="about-sub"><strong>Engagements</strong><ul>Co-Founder & CEO @ <a target="_blanl" href="https://processly.io/">Processly</a></ul>
+    <ul>Co-Founder @<a target="_blank" href="https://dzgn.io/">DzgnIO</a></ul>
+    <ul>Product Developer @ <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a></ul>
+    <li><strong>Location</strong>
+    <ul><a target="_blank" href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh, PA</a></ul></li>
     </ul>
     </div>
     <div class="column small-12 medium-8 about-body">
     <p>Hi there! My name is Albert but it’s pronounced Al-bear, the French way (the “t” is silent).</p>
 
-<p>Lately my efforts and passion have been towards Co-founding my startup called <a target="_blanl" href="https://processly.io/">Processly</a>. I work with my amazing cofounders everyday to redefine how students learn and how teachers teach as we enter the digital age of learning.</p> 
+<p>Currently my efforts and passion have been towards Co-founding my startup <a target="_blanl" href="https://processly.io/">Processly</a> where I focus on bridging the gaps between holistic design, business, and human behavior to change the educational landscape. Prior to graduating from <a target="_blanl" href="https://www.cmu.edu/">Carnegie Mellon University</a> with a degree in Industrial Design, I spent 5 plus years working as a program and teacher assistant at <a target="_blanl" href="http://asapprogram.org/">ASAP - A Step Ahead Program</a>. I took part in the founding process and operations of the school, and taught children on the autism spectrum working closely with the parents and teachers to implement various teaching strategies both at school and in their homes.</p> 
 
-<p>My life journey has been complex and adventurous (in my brief 22 years) but here are some highlights:</p>
-<ul>
-<li>- Graduated with a degree in Industrial Design from <a target="_blanl" href="https://design.cmu.edu/">Carnegie Mellon University</a></li>
-<li>- Have been mentored as an <a target="_blanl" href="http://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/experiential-learning/innovation-scholars/">Innovation Scholar</a> in the Center for Innovation and Entrepreneurship</li>
-<li>- Is a soft-goods designer for <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a> in Pittsburgh</li></ul>
+<p>During my studies at <a target="_blanl" href="https://design.cmu.edu/">CMUs Design school</a>, I became an <a target="_blanl" href="https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/experiential-learning/innovation-scholars/index.html">Innovation Scholar </a>at CMUs Swartz Center for Entrepreneurship where I honed my business and entrepreneurial expertise. I continue to surround myself with Pittsburgh’s startup community and give talks at universities and incubators about entrepreneurship and design. Combining my three focuses of design, business, and behavior, I continue to work in spaces around social design, user experiences, entrepreneurship, business development, branding and consumer products.</p>
 
-<p>Other than my professional accomplishments, I love to cook, bike, windsurf, and play jazz music on any instrument that I can find.</p>
+<p>Other than my professional interests, I love to cook, bike, windsurf, and play jazz music on any instrument that I can find.</p>
 
 <p>The goal of this site is to keep track of projects, activities, and thoughts that I have done and to share it with you in hopes that you can learn something from them. If you have any questions and/or comments don’t hesitate to reach out through <a target="_blank" href="https://www.linkedin.com/in/alberttopdjian">Linkedin</a> or <a target="_blank" href="https://twitter.com/alberttopdjian">Twitter</a>. </p>
 </div>
