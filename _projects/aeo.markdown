@@ -7,9 +7,11 @@ tag: UX
 span: Ongoing
 thumbnail: aeo.png
 ---
-**In collaboration with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve their associate-customer experience.**
+**Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> improving manager and associate workflow through motivation communication and community.**
 
+<div>
 <img src="../img/aeo/ipadscreens.png">
+</div>
 
 **Mobile Point of Sale Optimization**<br>
 User Research, Service + UX / UI Design
@@ -17,16 +19,42 @@ In Collaboration with American Eagle Outfitters and <a target="_blank" href="htt
 
 We worked alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. 
 
-We were tasked with the initial design research (on-site and off-site), developing system maps and user activities to gather data, and creating mockups and visual designs to propose a new solution to their workflow.
+We were tasked with design research (on-site and off-site), developing system maps and user activities to gather data, and creating mockups and visual designs to propose a new solution to their workflow.
 
 Most of the research was conducted on-site with both the associates and the store customers. Bi-weekly check-in presentations with AEO representatives were held, and culminated with a presentation and demo of our final product to corporate management at their headquarters.
 
-<iframe style="margin-bottom:30px" width="100%" height="400" src="https://www.youtube.com/embed/TLeKtPEjSps?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="margin-bottom:30px; margin-top:30px;" width="100%" height="400" src="https://www.youtube.com/embed/TLeKtPEjSps?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Process
+<h1 style="color:#742bb5">Process</h1>
+
+Animated GIFs from user interface designs for the associate-customer experience using an iPad.
 
 
 
+<div class="row" style="padding:0px; ">
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype1.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype2.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype3.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype4.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype5.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype6.gif" alt="UI animation">
+    </div>
+</div>
+
+<div>
+<img src="../img/aeo/before.png">
+ <p>well hello there</p>    
+<img src="../img/aeo/after.png">
+<img src="../img/aeo/3%20point.png">
+<img src="../img/aeo/wall%20posts.png">
+<img src="../img/aeo/wall%20posts%202.png">
+<img style="margin-top:10px; margin-bottom: 10px;" src="../img/aeo/process1.png">
+</div>
 
 <!---<div class="gallery">
 <div class="slideshow-container">   

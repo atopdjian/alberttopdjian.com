@@ -2,7 +2,7 @@
 layout: post
 order: 1
 title: "Processly"
-date: 2017-11-01
+date: 2018-08-05
 tag: Startup
 span: Ongoing
 thumbnail: processly.png
@@ -19,9 +19,12 @@ thumbnail: processly.png
 </div>
 
 <br>
-# Current Status
+# About
 
-We have validated our visual prototype and concept with over 200 teachers, admins, and students. Our development of the app is in full force with our beta completion in Spring 2018. We have a handful of schools and professionals partnering with us to test our beta upon release. If you or anyone else is interested in learning more about Processly and my team of Co-founders, feel free to connect with us through our site or reach out to me directly.
+Processly is an adaptive learning web platform that uses an infinite online whiteboard, making it easy for teachers, businesses, and schools to apply modern teaching methods. We do this by creating a play-space for learners to document, reflect, and communicate within a collaborative environment throughout their learning process, all the while providing key insights.
+
+Designed specifically with students and educators in mind, our platform makes it easier than ever to foster a learner-driven environment adapting to the various modern teaching methodologies being used today. By simply implementing Processly, you will find students taking accountability for their learning, improving their long-term learning skills, developing important life skills, and truly understand how it feels to learn and grow in their own unique ways.
+
 
 
 
