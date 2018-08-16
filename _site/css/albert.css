@@ -29,6 +29,19 @@ img {
   .bab:hover {
     opacity: 0.75; }
 
+.bab-about {
+  width: 15s0px;
+  font-size: 14px;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #742bb5;
+  margin-top: 20px;
+  border-radius: 15px; }
+  .bab-about:hover {
+    opacity: 0.75; }
+
 .albert-container {
   -moz-user-select: none;
   -khtml-user-select: none;
@@ -133,6 +146,18 @@ a {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
 
+.thumbnail-container .thumbnail-image {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
+.thumbnail-container .thumbnail-text {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
 .thumbnail-image {
   width: 100%;
   opacity: 1; }
@@ -145,7 +170,7 @@ a {
   opacity: 0; }
 
 .thumbnail-header {
-  color: black;
+  color: #313131;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -173,11 +198,15 @@ h2 {
   font-size: 24px;
   font-weight: 700; }
 
+p {
+  margin-right: 50px; }
+
 .post {
   margin-top: 50px; }
 
 .row {
-  margin-left: 0px; }
+  margin-left: -5px;
+  margin-right: -5px; }
 
 .aboutcontent {
   margin-top: -30px; }
@@ -199,11 +228,12 @@ h2 {
 
 .post {
   background-color: white;
-  max-width: 800px;
+  max-width: 1100px;
   margin-bottom: 50px; }
 
 .about-sub {
-  padding-top: 20px; }
+  padding-top: 20px;
+  margin-left: 5px; }
 
 .about-body {
   padding-left: 40px; }
@@ -245,10 +275,10 @@ ul {
     margin-left: 180px; } }
 /*(for mobile styling) */
 @media screen and (max-width: 40em) {
-  .post {
-    margin-left: 10px;
-    margin-right: 10px; }
-
+  /*.post {
+      margin-left: 10px;
+      margin-right: 10px;
+  } */
   .about-body {
     padding-left: 10px; }
 
@@ -266,14 +296,33 @@ ul {
     padding-bottom: 10px; } }
 /*(for tablet styling) */
 @media screen and (max-width: 64em) {
-  .post {
-    margin-left: 20px;
-    margin-right: 20px; }
-
+  /*.post {
+      margin-left: 20px;
+      margin-right: 20px;
+  }*/
   .nav-content {
     height: 100vh;
     position: relative;
     padding-left: 120px;
     padding-right: 100px;
     padding-top: 50px;
-    padding-bottom: 50px; } }
+    padding-bottom: 50px; }
+
+  p,
+  h1 {
+    margin-left: 20px;
+    margin-right: 20px; }
+
+  .post-header {
+    margin-left: 20px;
+    margin-right: 20px; }
+
+  .post-title {
+    margin-left: 0px; }
+
+  .row {
+    margin-left: -5px;
+    margin-right: -5px; }
+
+  .about-sub {
+    margin-left: 30px; } }

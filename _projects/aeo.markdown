@@ -7,25 +7,54 @@ tag: UX
 span: Ongoing
 thumbnail: aeo.png
 ---
-**This project was in collaboration with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve their associate-customer experience.**
+**Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> improving manager and associate workflow through motivation communication and community.**
 
-<img src="../img/thumbnails/ipadscreens.png">
+<div>
+<img src="../img/aeo/ipadscreens.png">
+</div>
 
 **Mobile Point of Sale Optimization**<br>
 User Research, Service + UX / UI Design
-In Collaboration with American Eagle Outfitters and <a target="_blank" href="http://psuntias.com/">Praewa Suntiasvaraporn</a>
+In Collaboration with American Eagle Outfitters and <a target="_blank" href="http://psuntias.com/">Praewa Suntiasvaraporn</a>.
 
-For our spring studio class, Products in Systems, we were assigned a semester-long project to work alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. 
+We worked alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. 
 
-My role in the project was making most of the visual decisions and content, from drawing system maps to the final interface design tweaks. For the rest of the project from the online research phase to on-site research, and all the way to creating the final prototype, my partner and I worked very well together collaboratively. 
+We were tasked with design research (on-site and off-site), developing system maps and user activities to gather data, and creating mockups and visual designs to propose a new solution to their workflow.
 
-For this project, we had to conduct a lot of on-site research with both the associates and the store customers. We also did bi-weekly check-in presentations with 3 AEO representatives, and had the opportunity to present and demo our final product to corporate management at their headquarters.
+Most of the research was conducted on-site with both the associates and the store customers. Bi-weekly check-in presentations with AEO representatives were held, and culminated with a presentation and demo of our final product to corporate management at their headquarters.
 
-# Process
+<iframe style="margin-bottom:30px; margin-top:30px;" width="100%" height="400" src="https://www.youtube.com/embed/TLeKtPEjSps?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Our team worked with the Monroeville Mall location to understand how the MPOS worked in the store. We started off our research by observing (fly on the wall), then we went into casual conversation, then into more formal interviews with both associates and customers.
+<h1 style="color:#742bb5">Process</h1>
 
-With the information that we got in our first few visits, we mapped out our thoughts and insights to create concept, journey and experience maps about the MPOS experience.
+Animated GIFs from user interface designs for the associate-customer experience using an iPad.
+
+
+
+<div class="row" style="padding:0px; ">
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype1.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype2.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype3.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype4.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype5.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype6.gif" alt="UI animation">
+    </div>
+</div>
+
+<div>
+<img src="../img/aeo/before.png">
+ <p>well hello there</p>    
+<img src="../img/aeo/after.png">
+<img src="../img/aeo/3%20point.png">
+<img src="../img/aeo/wall%20posts.png">
+<img src="../img/aeo/wall%20posts%202.png">
+<img style="margin-top:10px; margin-bottom: 10px;" src="../img/aeo/process1.png">
+</div>
 
 <!---<div class="gallery">
 <div class="slideshow-container">   

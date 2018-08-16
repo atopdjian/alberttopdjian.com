@@ -36,6 +36,7 @@ user-select: none;
 -ms-user-select: none;
 }
 
+
 .bab {
     width: 40%;
     font-size: 25px;
@@ -45,6 +46,20 @@ user-select: none;
     text-align: center;
     background-color: $purple;
     margin: 0 auto; 
+    border-radius: 15px;
+    &:hover {
+        opacity: 0.75;
+    }}
+
+.bab-about {
+    width: 15s0px;
+    font-size: 14px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: $purple;
+    margin-top: 20px;
     border-radius: 15px;
     &:hover {
         opacity: 0.75;
@@ -168,16 +183,30 @@ a {
  
   
   .thumbnail-container:hover .thumbnail-image {
-      opacity: 0.05;
-       -webkit-transition: all 0.2s ease-in-out;
+    opacity: 0.05;
+    -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
   }
 
 .thumbnail-container:hover .thumbnail-text {
-      opacity: 1;
-       -webkit-transition: all 0.2s ease-in-out;
+    opacity: 1;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .thumbnail-container .thumbnail-image {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
+
+.thumbnail-container .thumbnail-text {
+    -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
@@ -198,7 +227,7 @@ a {
 }
 
   .thumbnail-header {
-    color: black;
+    color: $dio-black;
     font-weight: $bold;
     text-transform: uppercase;
   }
@@ -232,12 +261,17 @@ h2 {
     font-weight: $bold;
 }
 
+p {
+    margin-right: 50px;
+}
+
 .post {
     margin-top: 50px;
 }
 
 .row {
-    margin-left: 0px;
+    margin-left: -5px;
+    margin-right: -5px;
 }
 
 .aboutcontent {
@@ -266,12 +300,13 @@ h2 {
 
 .post {
    background-color: white;
-    max-width: 800px;
+    max-width: 1100px;
     margin-bottom: 50px;
 }
 
 .about-sub {
     padding-top: 20px;
+    margin-left: 5px;
 }
 
 .about-body {
@@ -324,10 +359,10 @@ ul {
 
 /*(for mobile styling) */
 @media screen and (max-width: 40em) {
-    .post {
+    /*.post {
         margin-left: 10px;
         margin-right: 10px;
-    }
+    } */
     .about-body {
     padding-left: 10px;
     }
@@ -346,15 +381,17 @@ ul {
     padding-top: 10px;
     padding-bottom: 10px;
     }
+    
 }
 
 /*(for tablet styling) */
 @media screen and (max-width: 64em) {
-    .post {
+    /*.post {
         margin-left: 20px;
         margin-right: 20px;
-    }
-       .nav-content {
+    }*/
+    
+    .nav-content {
     height: 100vh;
     position: relative;
     padding-left: 120px;
@@ -362,4 +399,29 @@ ul {
     padding-top: 50px;
     padding-bottom: 50px;
     }   
+    
+    p,
+    h1
+    {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    .post-header {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    .post-title {
+        margin-left: 0px;
+    }
+    
+    .row {
+        margin-left: -5px;
+        margin-right: -5px;
+    }
+    
+    .about-sub {
+        margin-left: 30px;
+    }
 }

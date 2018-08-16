@@ -2,12 +2,12 @@
 layout: post
 order: 1
 title: "Processly"
-date: 2017-11-01
+date: 2018-08-05
 tag: Startup
 span: Ongoing
 thumbnail: processly.png
 ---
-**Processly is an adaptive learning platform that uses an infinite digital whiteboard making it easy for teachers, students, and schools to apply modern learning methods in the classroom. Check out our site <a target="_blanl" href="https://processly.io/">here</a>**
+**Processly is an adaptive learning platform that uses an infinite online whiteboard, making it easy for teachers and schools to apply modern teaching methods in the classroom. Check out our site <a target="_blanl" href="https://processly.io/">here</a>**
 
 <img src="../img/processly/processlyhome.png">
 
@@ -19,9 +19,16 @@ thumbnail: processly.png
 </div>
 
 <br>
-# Current Status
 
-We have validated our visual prototype and concept with over 150 teachers, admins, and students. Our development of the app is in full force with our beta completion in mid December 2017. We have a handful of schools and professionals partnering with us to test our beta upon release. If you or anyone else is interested in learning more about Processly and my team of Co-founders, feel free to connect with us through our site or reach out to me directly.
+Processly is an adaptive learning web platform that uses an infinite online whiteboard, making it easy for teachers, businesses, and schools to apply modern teaching methods. We do this by creating a play-space for learners to document, reflect, and communicate within a collaborative environment throughout their learning process, all the while providing key insights.
 
+Designed specifically with students and educators in mind, our platform makes it easier than ever to foster a learner-driven environment adapting to the various modern teaching methodologies being used today. By simply implementing Processly, you will find students taking accountability for their learning, improving their long-term learning skills, developing important life skills, and truly understand how it feels to learn and grow in their own unique ways.
 
+<div style="margin-top:40px;">
+<img src="../img/processly/presentations.png">
+</div>
+
+<a target="_blanl" href="http://rehanbutt.com/">Rehan Butt</a> (my Co-founder) and I having fun presenting at education conferences.
+
+I'm always interesting in hearing people's perspective on education! Don't hesitate to <a target="_blanl" href="https://goo.gl/forms/aFJyCqeoDhrwU0Um2">connect</a> with me or come say hi if you're in Pittsburgh!
 
