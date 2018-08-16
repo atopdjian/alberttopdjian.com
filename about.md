@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 <div class="aboutcontent">
@@ -15,6 +15,12 @@ permalink: /about/
     <ul>Product Developer @ <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a></ul>
     <li><strong>Location</strong>
     <ul><a target="_blank" href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh, PA</a></ul></li>
+    <div>
+        <a target="_blank" href="https://goo.gl/forms/aFJyCqeoDhrwU0Um2">
+        <div class="bab-about"> Connect with me
+        </div>
+        </a>
+        </div>
     </ul>
     </div>
     <div class="column small-12 medium-8 about-body">

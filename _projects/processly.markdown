@@ -19,12 +19,16 @@ thumbnail: processly.png
 </div>
 
 <br>
-# About
 
 Processly is an adaptive learning web platform that uses an infinite online whiteboard, making it easy for teachers, businesses, and schools to apply modern teaching methods. We do this by creating a play-space for learners to document, reflect, and communicate within a collaborative environment throughout their learning process, all the while providing key insights.
 
 Designed specifically with students and educators in mind, our platform makes it easier than ever to foster a learner-driven environment adapting to the various modern teaching methodologies being used today. By simply implementing Processly, you will find students taking accountability for their learning, improving their long-term learning skills, developing important life skills, and truly understand how it feels to learn and grow in their own unique ways.
 
+<div style="margin-top:40px;">
+<img src="../img/processly/presentations.png">
+</div>
 
+<a target="_blanl" href="http://rehanbutt.com/">Rehan Butt</a> (my Co-founder) and I having fun presenting at education conferences.
 
+I'm always interesting in hearing people's perspective on education! Don't hesitate to connect with us through our site or come say hi if you're in Pittsburgh!
 

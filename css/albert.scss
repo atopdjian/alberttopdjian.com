@@ -50,6 +50,20 @@ user-select: none;
         opacity: 0.75;
     }}
 
+.bab-about {
+    width: 50%;
+    font-size: 14px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: $purple;
+    margin-top: 20px;
+    border-radius: 15px;
+    &:hover {
+        opacity: 0.75;
+    }}
+
 .albert-container {
     -moz-user-select: none; 
 -khtml-user-select: none; 
@@ -291,6 +305,7 @@ p {
 
 .about-sub {
     padding-top: 20px;
+    margin-left: 5px;
 }
 
 .about-body {
@@ -403,5 +418,9 @@ ul {
     .row {
         margin-left: -5px;
         margin-right: -5px;
+    }
+    
+    .about-sub {
+        margin-left: 30px;
     }
 }
