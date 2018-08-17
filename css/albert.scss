@@ -28,12 +28,14 @@ $black: 900;
 }
 
 img {
-        user-drag: none; 
+user-drag: none; 
 user-select: none;
 -moz-user-select: none;
 -webkit-user-drag: none;
 -webkit-user-select: none;
 -ms-user-select: none;
+
+max-width: 100%;
 }
 
 
@@ -90,7 +92,7 @@ user-select: none;
 .nav-content {
     height: 100vh;
     position: relative;
-    padding-left: 50px;
+    padding-left: 45px;
     padding-right: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -254,6 +256,7 @@ h4 {
 h1 {
     font-weight: $black;
     font-size: 36px;
+    margin-bottom: 0px;
 }
 
 h2 {
@@ -262,7 +265,13 @@ h2 {
 }
 
 p {
-    margin-right: 50px;
+    margin-right: 200px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.body-images {
+    width: 100%;
 }
 
 .post {
