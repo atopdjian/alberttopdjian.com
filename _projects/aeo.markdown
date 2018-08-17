@@ -31,7 +31,7 @@ Animated GIFs from user interface designs for the associate-customer experience 
 
 
 
-<div class="row" style="padding:0px; ">
+<div class="gif-row" style="padding:0px; ">
     <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype1.gif" alt="UI animation">
     </div>
     <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype2.gif" alt="UI animation">

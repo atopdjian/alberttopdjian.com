@@ -30,7 +30,7 @@ img {
     opacity: 0.75; }
 
 .bab-about {
-  width: 15s0px;
+  width: 150px;
   font-size: 14px;
   color: white;
   padding-top: 10px;
@@ -204,7 +204,7 @@ p {
 .post {
   margin-top: 50px; }
 
-.row {
+.gif-row {
   margin-left: -5px;
   margin-right: -5px; }
 
@@ -320,7 +320,7 @@ ul {
   .post-title {
     margin-left: 0px; }
 
-  .row {
+  .gif-row {
     margin-left: -5px;
     margin-right: -5px; }
 
