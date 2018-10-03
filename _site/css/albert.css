@@ -54,6 +54,9 @@ img {
 .column:last-child {
   float: left; }
 
+.row {
+  position: fixed; }
+
 .side-nav {
   position: fixed;
   background-color: white;

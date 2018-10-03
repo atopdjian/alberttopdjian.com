@@ -25,7 +25,7 @@ layout: default
 -->
 
 <div class="row">
-    {% assign project_order = (site.projects | sort: 'order') %}
+  {% assign project_order = (site.projects | sort: 'order') %}
   {% for project in project_order %}
     <div class="column small-12 medium-4 tile">
     <a href="{{ project.url | prepend: site.baseurl }}">
