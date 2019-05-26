@@ -26,6 +26,7 @@ Processly is an adaptive learning web platform that uses an infinite online whit
 Designed specifically with students and educators in mind, our platform makes it easier than ever to foster a learner-driven environment adapting to the various modern teaching methodologies being used today. By simply implementing Processly, you will find students taking accountability for their learning, improving their long-term learning skills, developing important life skills, and truly understand how it feels to learn and grow in their own unique ways.
 
 <div>
+<img src="../img/processly/presentations 2.png">
 <img src="../img/processly/presentations.png">
 </div>
 

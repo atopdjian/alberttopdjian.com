@@ -15,7 +15,10 @@ img {
   -webkit-user-drag: none;
   -webkit-user-select: none;
   -ms-user-select: none;
-  max-width: 100%; }
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  margin-top: 10px; }
 
 .bab {
   width: 40%;

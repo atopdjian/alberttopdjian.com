@@ -11,8 +11,8 @@ permalink: /about/
     <img class="albert-hover" src="/img/alberthover.png" alt="Silly Albert" style="width: 100%;">
     </div>
     <ul class="about-sub"><strong>Engagements</strong><ul>Co-Founder & CEO @ <a target="_blanl" href="https://processly.io/">Processly</a></ul>
-    <ul>Co-Founder @ <a target="_blank" href="https://dzgn.io/">DzgnIO</a></ul>
     <ul>Product Developer @ <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a></ul>
+    <ul>Co-Founder @ <a target="_blank" href="https://dzgn.io/">DzgnIO</a></ul>
     <li><strong>Location</strong>
     <ul><a target="_blank" href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh, PA</a></ul></li>
     <div>
