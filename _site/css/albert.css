@@ -14,7 +14,11 @@ img {
   -moz-user-select: none;
   -webkit-user-drag: none;
   -webkit-user-select: none;
-  -ms-user-select: none; }
+  -ms-user-select: none;
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  margin-top: 10px; }
 
 .bab {
   width: 40%;
@@ -30,7 +34,7 @@ img {
     opacity: 0.75; }
 
 .bab-about {
-  width: 15s0px;
+  width: 150px;
   font-size: 14px;
   color: white;
   padding-top: 10px;
@@ -53,6 +57,9 @@ img {
 .column:last-child {
   float: left; }
 
+.row {
+  position: fixed; }
+
 .side-nav {
   position: fixed;
   background-color: white;
@@ -64,7 +71,7 @@ img {
 .nav-content {
   height: 100vh;
   position: relative;
-  padding-left: 50px;
+  padding-left: 45px;
   padding-right: 50px;
   padding-top: 50px;
   padding-bottom: 50px; }
@@ -192,19 +199,25 @@ h4 {
 
 h1 {
   font-weight: 900;
-  font-size: 36px; }
+  font-size: 36px;
+  margin-bottom: 0px; }
 
 h2 {
   font-size: 24px;
   font-weight: 700; }
 
 p {
-  margin-right: 50px; }
+  margin-right: 200px;
+  margin-bottom: 25px;
+  margin-top: 25px; }
+
+.body-images {
+  width: 100%; }
 
 .post {
   margin-top: 50px; }
 
-.row {
+.gif-row {
   margin-left: -5px;
   margin-right: -5px; }
 
@@ -320,7 +333,7 @@ ul {
   .post-title {
     margin-left: 0px; }
 
-  .row {
+  .gif-row {
     margin-left: -5px;
     margin-right: -5px; }
 

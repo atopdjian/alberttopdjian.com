@@ -30,8 +30,7 @@ Most of the research was conducted on-site with both the associates and the stor
 Animated GIFs from user interface designs for the associate-customer experience using an iPad.
 
 
-
-<div class="row" style="padding:0px; ">
+<div class="gif-row" style="padding:0px; ">
     <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype1.gif" alt="UI animation">
     </div>
     <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype2.gif" alt="UI animation">
@@ -44,11 +43,19 @@ Animated GIFs from user interface designs for the associate-customer experience 
     </div>
     <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px;"><img src="../img/aeo/uiprototype6.gif" alt="UI animation">
     </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px; width: atuo;"><img src="../img/aeo/uiprototype7.gif" alt="UI animation">
+    </div>
+    <div class="image-container small-6 medium-6 column" style="padding:5px; margin:0px; width: atuo;"><img src="../img/aeo/uiprototype8.gif" alt="UI animation">
+    </div>
 </div>
+
+
+
+The associate workflows before and after our proposed redesign.   
+    
 
 <div>
 <img src="../img/aeo/before.png">
- <p>well hello there</p>    
 <img src="../img/aeo/after.png">
 <img src="../img/aeo/3%20point.png">
 <img src="../img/aeo/wall%20posts.png">
