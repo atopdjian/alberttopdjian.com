@@ -5,9 +5,10 @@ title: "American Eagle Outfitters"
 date: 2016-05-25
 tag: UX
 span: Ongoing
+desc: Improving manager and associate workflow through motivation communication and community
 thumbnail: aeo.png
 ---
-**Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> improving manager and associate workflow through motivation communication and community.**
+**Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve manager and associate workflow through motivation communication and community.**
 
 <div>
 <img src="../img/aeo/ipadscreens.png">

@@ -5,9 +5,10 @@ title: "Processly"
 date: 2018-08-05
 tag: Startup
 span: Ongoing
+desc: An EdTech startup productizing an infinite online whiteboard for multi-media collaborative learning
 thumbnail: processly.png
 ---
-**Processly is an adaptive learning platform that uses an infinite online whiteboard, making it easy for teachers and schools to apply modern teaching methods in the classroom. Check out our site <a target="_blanl" href="https://processly.io/">here</a>**
+**Processly is an EdTech startup productizing an infinite online whiteboard for multi-media collaborative learning.**
 
 <div>
 <img src="../img/processly/processlyhome.png">
