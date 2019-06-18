@@ -20,6 +20,9 @@ img {
   width: 100%;
   margin-top: 10px; }
 
+img.thumbnail-image {
+  margin-top: 0px; }
+
 .bab {
   width: 40%;
   font-size: 25px;
@@ -183,7 +186,12 @@ a {
 
 .thumbnail-tag {
   font-weight: 400;
-  color: black; }
+  color: #313131; }
+
+.thumbnail-desc {
+  color: #313131;
+  padding-top: 20px;
+  display: block; }
 
 body {
   background-color: white;

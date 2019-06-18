@@ -5,14 +5,15 @@ title: "Holistic Design"
 date: 2016-05-25
 tag: Thoughts
 span: Ongoing
+desc: A deep reflection into what Design means to me
 thumbnail: holistic.png
 ---
 
+**A deep reflection into what Design means to me.**
+
 <iframe src="https://player.vimeo.com/video/189889759?color=742bb5&portrait=0" style="margin-bottom:30px" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<h1 style="color:#742bb5">Process</h1>
-
-Links to my thoughts and reflections that informed my mindset around Holistic Design.
+Links to my written thoughts and reflections that informed my mindset around Holistic Design.
 
 <p><a target="_blanl" href="https://medium.com/@alberttopdjian/wunderkammer-e8ffe77c2b4f">Wunderkammer</a></p>
 <p><a target="_blanl" href="https://medium.com/@alberttopdjian/five-object-for-the-afterlife-7e22ea4d2061">Five Object for the Afterlife</a></p>

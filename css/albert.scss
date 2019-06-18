@@ -42,6 +42,9 @@ width: 100%;
 margin-top: 10px;
 }
 
+img.thumbnail-image{
+  margin-top: 0px;
+}
 
 .bab {
     width: 40%;
@@ -244,7 +247,13 @@ a {
     
 .thumbnail-tag {
     font-weight: $regular;
-    color: black;
+    color: $dio-black;
+}
+
+.thumbnail-desc {
+    color: $dio-black;
+    padding-top: 20px;
+    display: block;
 }
 
 body {
