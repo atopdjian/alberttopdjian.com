@@ -33,13 +33,17 @@ Medical imaging technology has greatly advanced over the years providing doctors
 
 Clinical decision support systems currently being used rarely take cues from multiple information sources (multimodal data).
 
+<div>
+<img src="../img/exaid/diagram%201.png">
+</div>
+
 Doctors lack trust in the decision’s provided by machines, due to which mass adoption of clinical decision support systems is yet to happen.
+
+Existing AI tools suffer from the "Black Box" problem where the user is unable to see how the inputs are being analysed by the algorithm.
 
 <div>
 <img src="../img/exaid/exaid%2002.png">
 </div>
-
-Existing AI tools suffer from the "Black Box" problem where the user is unable to see how the inputs are being analysed by the algorithm.
 
 **“If we wish clinicians to place their trust in a computerized decision aid, then we will need to figure out how to build such trust”** David A. Cook,  Mayo Clinic [1]
 
@@ -50,12 +54,21 @@ Give physicians the ability to detect diseases with an unparalleled accuracy, re
 
 Establish trust between physicians and our AI tools by letting the machine explain its decision-making process, thereby enabling physicians to make an educated decision.
 
+EXAID's interface and information architecture unlocks the "Black Box" and shows how the model came to its conclusions.
+
 <div>
 <img src="../img/exaid/exaid%2001.png">
+</div>
 
-EXAID's interface and information architecture unlocks the "Black Box" and shows how the model came to its conclusions.
+Streamlined records from across various hospitals now feed into EXAID making the matches significantly more accurate.
+
+<div>
+<img src="../img/exaid/diagram%202.png">
+</div>
+
 Weighted scales allow the physician to adjust the weight of each field for greater accuracy and specificity.
 
+<div>
 <img src="../img/exaid/exaid%20screen.png">
 </div>
 
