@@ -143,7 +143,7 @@ a {
   opacity: 1; }
 
 .thumbnail-container:hover .thumbnail-image {
-  opacity: 0.05;
+  opacity: 0.03;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;

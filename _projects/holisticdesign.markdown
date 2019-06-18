@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 3
+order: 4
 title: "Holistic Design"
 date: 2016-05-25
 tag: Thoughts
