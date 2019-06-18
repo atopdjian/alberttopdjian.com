@@ -22,7 +22,7 @@ Apart from insights, we establish trust between physicians and our AI tools by l
 <h1 style="color:#742bb5">Problem</h1>
 
 **Medical misdiagnosis is the third leading cause of deaths in the US**  
-10-20% of all cases are misdiagnosed, leading to ~12M  misdiagnoses in the US/year  
+10-20% of all cases are misdiagnosed, leading to ~12M  misdiagnosis in the US/year  
 Medical errors cost $19.5bn/year in the US  
 
 **Cancer misdiagnosis is more common**  
