@@ -22,10 +22,12 @@ Apart from insights, we establish trust between physicians and our AI tools by l
 <h1 style="color:#742bb5">Problem</h1>
 
 **Medical misdiagnosis is the third leading cause of deaths in the US**  
-10-20% of all cases are misdiagnosed, leading to ~12M  misdiagnosis in the US/year  
-~40,500 ICU deaths in the US due to medical misdiagnosis / year  
-Leading reason for medical malpractice claims in the US  
-2011: $3.19bn, 2012: $3.14bn, 2013: $3.26bn  
+10-20% of all cases are misdiagnosed, leading to ~12M  misdiagnoses in the US/year  
+Medical errors cost $19.5bn/year in the US  
+
+**Cancer misdiagnosis is more common**  
+Prostate cancer tests miss severity in 50% of cases  
+Pancreatic cancer misdiagnosis rate is 31%  
 
 Doctor to Patient ratio : 2.5 doctors / 1000 people in the US
 
