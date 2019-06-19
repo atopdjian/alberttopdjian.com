@@ -6,7 +6,7 @@ date: 2017-04-01
 tag: Woodworking
 span: Ongoing
 desc: En exploration into communication through form
-thumbnail: forms.jpg
+thumbnail: forms.JPG
 ---
 
 **Exploration of communication through forms combining wood and one other material.**
@@ -14,17 +14,17 @@ thumbnail: forms.jpg
 Materials: Walnut, Oak, Leather, Rock  
 
 <div>
-<img src="../img/forms/form 1.jpg">
-<img src="../img/forms/form 2.jpg">
-<img src="../img/forms/form 3.jpg">
-<img src="../img/forms/form 4.jpg">
-<img src="../img/forms/form 5.jpg">
-<img src="../img/forms/form 6.jpg">
-<img src="../img/forms/form 7.jpg">
-<img src="../img/forms/form 8.jpg">
-<img src="../img/forms/form 9.jpg">
-<img src="../img/forms/form 10.jpg">
-<img src="../img/forms/form 11.jpg">
-<img src="../img/forms/form 12.jpg">
-<img src="../img/forms/form 13.jpg">
+<img src="../img/forms/form%201.JPG">
+<img src="../img/forms/form%202.JPG">
+<img src="../img/forms/form%203.JPG">
+<img src="../img/forms/form%204.JPG">
+<img src="../img/forms/form%205.JPG">
+<img src="../img/forms/form%206.JPG">
+<img src="../img/forms/form%207.JPG">
+<img src="../img/forms/form%208.JPG">
+<img src="../img/forms/form%209.JPG">
+<img src="../img/forms/form%2010.JPG">
+<img src="../img/forms/form%2011.JPG">
+<img src="../img/forms/form%2012.JPG">
+<img src="../img/forms/form%2013.JPG">
 </div>
