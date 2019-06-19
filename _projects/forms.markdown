@@ -5,13 +5,13 @@ title: "Forms"
 date: 2017-04-01
 tag: Woodworking
 span: Ongoing
-desc: En exploration into communication through form
+desc: An exploration into communication through form
 thumbnail: forms.JPG
 ---
 
 **Exploration of communication through forms combining wood and one other material.**
 
-Materials: Walnut, Oak, Leather, Rock  
+Materials: Walnut, Oak, Leather, Rock 
 
 <div>
 <img src="../img/forms/form%201.JPG">
