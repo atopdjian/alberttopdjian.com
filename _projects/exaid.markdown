@@ -6,7 +6,7 @@ date: 2016-05-25
 tag: UX
 span: Ongoing
 desc: Applying cutting-edge deep learning algorithms to analyze medical images
-thumbnail: exaid.png
+thumbnail: exaid.jpg
 ---
 
 **EXAID applies cutting-edge deep learning algorithms to analyze medical images.**
