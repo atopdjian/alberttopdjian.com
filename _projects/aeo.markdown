@@ -18,9 +18,7 @@ thumbnail: aeo.png
 User Research, Service + UX / UI Design
 In Collaboration with American Eagle Outfitters and <a target="_blank" href="http://psuntias.com/">Praewa Suntiasvaraporn</a>.
 
-We worked alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. 
-
-We were tasked with design research (on-site and off-site), developing system maps and user activities to gather data, and creating mockups and visual designs to propose a new solution to their workflow.
+We worked alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. We were tasked with design research (on-site and off-site), developing system maps and user activities to gather data, and creating mockups and visual designs to propose a new solution to their workflow.
 
 Most of the research was conducted on-site with both the associates and the store customers. Bi-weekly check-in presentations with AEO representatives were held, and culminated with a presentation and demo of our final product to corporate management at their headquarters.
 

@@ -263,18 +263,23 @@ ul {
   margin-left: 0px;
   list-style: none; }
 
+/*
 .albert-container:hover img:first-child {
-  display: none; }
+    display: none;
+}
 
 .albert:hover {
-  opacity: 0.0; }
+    opacity: 0.0;
+}
 
 .albert-container img:last-child {
-  display: none; }
+    display: none;
+}
 
 .albert-container:hover img:last-child {
-  display: inline-block; }
-
+    display: inline-block;
+}
+*/
 .post-content {
   padding-top: 20px; }
 
