@@ -33,5 +33,5 @@ Designed specifically with students and educators in mind, our platform makes it
 
 <a target="_blanl" href="http://rehanbutt.com/">Rehan Butt</a> (my Co-founder) and I having fun presenting at CES and education conferences.
 
-I'm always interesting in hearing people's perspective on education! Don't hesitate to <a target="_blanl" href="https://goo.gl/forms/aFJyCqeoDhrwU0Um2">connect</a> with me or come say hi if you're in Pittsburgh!
+I'm always interested in hearing people's perspective on education! Don't hesitate to <a target="_blanl" href="https://goo.gl/forms/aFJyCqeoDhrwU0Um2">connect</a> with me or come say hi if you're in Pittsburgh!
 

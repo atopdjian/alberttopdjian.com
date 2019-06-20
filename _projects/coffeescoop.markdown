@@ -11,6 +11,8 @@ thumbnail: scoop.jpg
 
 **An elegant approach to the coffee scoop with a grounded design.**
 
+Most coffee scoops today are left to the whims of their own balance. As they wobble on the tabletops with the uncertainty of spilling your coffee grinds, I explored a new way to ground the scoop to its surfaces. This form has a focus on strong horizontals and deep wood tones to give the user a similar visual aroma that fresh coffee grinds gives to our olfactory senses.
+
 Materials: Walnut, Steel 
 
 <div>
