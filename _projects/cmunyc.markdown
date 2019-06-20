@@ -13,6 +13,9 @@ thumbnail: nyc.png
 
 <div>
 <img src="../img/cmunyc/hero.png">
+</div>
+Carnegie Mellon University had proposed four new programs to be launched at the NYC campus. Without any coherent brand or presence within the educational community, we took it upon ourselves to build the narrative around these new programs. Despite the varying nature of these programs, our brand and UX direction unified their purpose and built upon the existing CMU story.
+<div>
 <img src="../img/cmunyc/pages.png">
 </div>
 

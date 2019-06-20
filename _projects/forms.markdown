@@ -11,6 +11,8 @@ thumbnail: forms.JPG
 
 **Exploration of communication through forms combining wood and one other material.**
 
+When given just two materials to use, how can we convey the sense of action that one has on the other? These forms explore the nature of pushing and pulling two forces. With one form, the leather rope exerts a force as if to deform the wood, while with the other the wood stays rigid and pushes back against the leather. With the wooden rock, our senses quickly react to the off-balance heavy nature of the dichotomy between the wood and the rock. Without even holding it, we can already begin to feel its cold heavy base and how it defies movements typically associated with a single material rock.  
+
 Materials: Walnut, Oak, Leather, Rock 
 
 <div>
