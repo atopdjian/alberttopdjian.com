@@ -41,6 +41,13 @@ When developing the new brand, we looked at various logo branding and establishe
 <img src="../img/cmunyc/nycInspiration.png">
 </div>
 
+Student personas were created to better embody the branding direction to appeal to their market space.
+
+<div>
+<img src="../img/cmunyc/personas.jpg">
+<img src="../img/cmunyc/personas2.jpg">
+</div>
+
 The user experience of the site was designed using wireframes and user flows to establish the overall system architecture of information.
 
 <div>
