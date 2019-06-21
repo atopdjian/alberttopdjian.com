@@ -45,7 +45,7 @@ img.thumbnail-image {
   text-align: center;
   background-color: #742bb5;
   margin-top: 20px;
-  border-radius: 15px; }
+  border-radius: 10px; }
   .bab-about:hover {
     opacity: 0.75; }
 
@@ -61,7 +61,8 @@ img.thumbnail-image {
   float: left; }
 
 .row {
-  position: auto; }
+  position: auto;
+  margin-left: 0px; }
 
 .side-nav {
   position: fixed;
@@ -319,7 +320,15 @@ ul {
   .bab {
     font-size: 14px;
     padding-top: 10px;
-    padding-bottom: 10px; } }
+    padding-bottom: 10px; }
+
+  .aboutcontent {
+    margin-top: -30px; }
+
+  .side-nav {
+    position: fixed;
+    background-color: white;
+    z-index: 2; } }
 /*(for tablet styling) */
 @media screen and (max-width: 64em) {
   /*.post {
