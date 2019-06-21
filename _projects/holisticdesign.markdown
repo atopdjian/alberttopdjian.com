@@ -13,6 +13,8 @@ thumbnail: holistic.png
 
 <iframe src="https://player.vimeo.com/video/189889759?color=742bb5&portrait=0" style="margin-bottom:30px" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+One of the challenges many designers face is defining what design means to them and what design ethos they associate with the most. It is important for us designers to be able to articulate these nuances as it can be easy to get mixed up in the various design facets. This video is the culmination of months of reflection, writing, and exploration to better understand what aspects of design I connect with and to articulate my definitions.  
+
 Links to my written thoughts and reflections that informed my mindset around Holistic Design.
 
 <p><a target="_blanl" href="https://medium.com/@alberttopdjian/wunderkammer-e8ffe77c2b4f">Wunderkammer</a></p>

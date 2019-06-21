@@ -1,45 +1,36 @@
 ---
 layout: default
+title: 
 ---
-
-<!--
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
--->
-
+<div class="aboutcontent">
 <div class="row">
-  {% assign project_order = (site.projects | sort: 'order') %}
-  {% for project in project_order %}
-    <div class="column small-12 medium-4 tile">
-    <a href="{{ project.url | prepend: site.baseurl }}">
-      <div class="thumbnail-container">
-        <img src="../img/thumbnails/{{ project.thumbnail }}" class="thumbnail-image"/>
-        <div class="thumbnail-text">
-        <span class="thumbnail-header">{{ project.title }}</span>
-        <br>
-        <span class="thumbnail-tag">{{ project.tag }}</span>
-        <br>
-        <span class="thumbnail-desc">{{ project.desc }}</span>
-        </div>
-      </div>
-     </a>
+    <div class="column small-12 medium-4">
+    <div class="albert-container">
+    <img class="albert" src="/img/albert.JPG" alt="Albert" style="width: 100%;">
+    <!--<img class="albert-hover" src="/img/alberthover.png" alt="Silly Albert" style="width: 100%;">-->
     </div>
-  {% endfor %}
+    <ul class="about-sub"><strong>Engagements</strong><ul>Co-Founder & CEO @ <a target="_blanl" href="https://processly.io/">Processly</a></ul>
+    <ul>Product Developer @ <a target="_blank" href="http://www.lexicon-design.com/">Lexicon Design</a></ul>
+    <li><strong>Location</strong>
+    <ul><a target="_blank" href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh, PA</a></ul></li>
+    <div>
+        <a target="_blank" href="https://goo.gl/forms/aFJyCqeoDhrwU0Um2">
+        <div class="bab-about"> Connect with me
+        </div>
+        </a>
+        </div>
+    </ul>
+    </div>
+    <div class="column small-12 medium-8 about-body">
+    <p>Hi there! My name is Albert but it’s pronounced Al-bear, the French way (the “t” is silent).</p>
+
+<p>Currently my efforts and passions have been towards co-founding my startup <a target="_blanl" href="https://processly.io/">Processly</a> where I focus on bridging the gaps between holistic design, technology, and human behavior to change the educational landscape. Prior to graduating from <a target="_blanl" href="https://www.cmu.edu/">Carnegie Mellon University</a> with a degree in Industrial Design, I spent 5 plus years working as a program and teacher assistant at <a target="_blanl" href="http://asapprogram.org/">ASAP - A Step Ahead Program</a>. I took part in the founding process and operations of the school, and taught children on the autism spectrum working closely with the parents and teachers to implement various teaching strategies both at school and in their homes.</p> 
+
+<p>During my studies at <a target="_blanl" href="https://design.cmu.edu/">CMUs Design school</a>, I became an <a target="_blanl" href="https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/experiential-learning/innovation-scholars/index.html">Innovation Scholar </a>at CMUs Swartz Center for Entrepreneurship where I honed my business and entrepreneurial expertise. I continue to surround myself with Pittsburgh’s startup community and give talks at universities and incubators about entrepreneurship and design. Combining my three focuses of design, technology, and behavior, I continue to work in spaces around social design, user experiences, entrepreneurship, business development, branding and consumer products.</p>
+
+<p>Other than my professional interests, I love to cook, bike, windsurf, and play jazz music on any instrument that I can find.</p>
+
+<p>The goal of this site is to keep track of projects, activities, and thoughts that I have done and to share it with you in hopes that you can learn something from them. Feel free to check out some of my <a href="www.alberttopdjian.com/works/">works</a> and if you have any questions and/or comments don’t hesitate to reach out <a target="_blank" href="https://goo.gl/forms/aFJyCqeoDhrwU0Um2">here</a> or through <a target="_blank" href="https://www.linkedin.com/in/alberttopdjian">Linkedin</a>.</p>
+</div>
+</div>
 </div>
