@@ -423,13 +423,20 @@ ul {
     }
   
   .aboutcontent {
-    margin-top: -30px;
+    margin-top: 0px;
+    margin-right: 0px;
   }
   
   .side-nav {
     position: fixed;
     background-color: white;
     z-index: 2;
+  }
+  
+  .post-content{
+    p{
+      margin-right: 20px;
+    }
   }
     
 }
@@ -451,7 +458,8 @@ ul {
     }   
     
     p,
-    h1
+    h1,
+    h2
     {
         margin-left: 20px;
         margin-right: 20px;
