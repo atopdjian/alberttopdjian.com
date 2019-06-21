@@ -69,7 +69,7 @@ img.thumbnail-image{
     text-align: center;
     background-color: $purple;
     margin-top: 20px;
-    border-radius: 15px;
+    border-radius: 10px;
     &:hover {
         opacity: 0.75;
     }}
@@ -88,6 +88,7 @@ img.thumbnail-image{
 
 .row{
   position: auto;
+  margin-left: 0px;
 }
 
 .side-nav {
@@ -409,6 +410,16 @@ ul {
     padding-top: 10px;
     padding-bottom: 10px;
     }
+  
+  .aboutcontent {
+    margin-top: -30px;
+  }
+  
+  .side-nav {
+    position: fixed;
+    background-color: white;
+    z-index: 2;
+  }
     
 }
 
