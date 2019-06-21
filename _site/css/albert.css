@@ -14,7 +14,9 @@ img {
   -moz-user-select: none;
   -webkit-user-drag: none;
   -webkit-user-select: none;
-  -ms-user-select: none;
+  -ms-user-select: none; }
+
+.post-content img {
   max-width: 100%;
   height: auto;
   width: 100%;
@@ -216,7 +218,7 @@ h2 {
   font-weight: 700; }
 
 p {
-  margin-right: 200px;
+  /*margin-right: 200px;*/
   margin-bottom: 25px;
   margin-top: 25px; }
 
@@ -231,7 +233,8 @@ p {
   margin-right: -5px; }
 
 .aboutcontent {
-  margin-top: 30px; }
+  margin-top: 30px;
+  margin-right: 80px; }
 
 .mobileheader {
   height: 50px;
@@ -284,6 +287,9 @@ ul {
 .post-content {
   padding-top: 20px; }
 
+.post-content p {
+  margin-right: 50px; }
+
 .post-title {
   margin-bottom: -10px; }
 
@@ -323,12 +329,16 @@ ul {
     padding-bottom: 10px; }
 
   .aboutcontent {
-    margin-top: -30px; }
+    margin-top: 0px;
+    margin-right: 0px; }
 
   .side-nav {
     position: fixed;
     background-color: white;
-    z-index: 2; } }
+    z-index: 2; }
+
+  .post-content p {
+    margin-right: 20px; } }
 /*(for tablet styling) */
 @media screen and (max-width: 64em) {
   /*.post {
@@ -344,7 +354,8 @@ ul {
     padding-bottom: 50px; }
 
   p,
-  h1 {
+  h1,
+  h2 {
     margin-left: 20px;
     margin-right: 20px; }
 
