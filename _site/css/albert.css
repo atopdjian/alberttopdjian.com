@@ -238,7 +238,11 @@ p {
 
 .mobileheader {
   height: 50px;
-  background-color: #742bb5; }
+  background-color: #742bb5;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 2; }
 
 .hamburger {
   margin-left: 10px; }
@@ -331,6 +335,12 @@ ul {
     position: fixed;
     background-color: white;
     z-index: 2; }
+
+  .off-canvas-wrapper-inner {
+    margin-top: 50px; }
+
+  .is-off-canvas-open {
+    margin-top: 0px; }
 
   .post-content p {
     margin-right: 20px; } }

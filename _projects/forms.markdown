@@ -6,7 +6,7 @@ date: 2017-04-01
 tag: Woodworking
 span: Ongoing
 desc: An exploration into communication through form
-thumbnail: forms.JPG
+thumbnail: formsGrey.JPG
 ---
 
 **Exploration of communication through forms combining wood and one other material.**

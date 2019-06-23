@@ -88,7 +88,7 @@ img.thumbnail-image{
 
 .column:last-child{
   float: left;
-}
+} 
 
 .row{
   position: auto;
@@ -113,7 +113,6 @@ img.thumbnail-image{
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
 
 .nav-labels {
     a {
@@ -313,7 +312,12 @@ p {
 .mobileheader {
     height: 50px;
     background-color: $purple;
+  width: 100%;
+    position: fixed;
+    top: 0;
+  z-index: 2;
 }
+
 
 .hamburger {
     margin-left: 10px;
@@ -433,6 +437,14 @@ ul {
     z-index: 2;
   }
   
+  .off-canvas-wrapper-inner{
+    margin-top: 50px;
+  }
+
+  .is-off-canvas-open{
+    margin-top: 0px; 
+  }
+
   .post-content{
     p{
       margin-right: 20px;
