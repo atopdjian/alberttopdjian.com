@@ -6,7 +6,7 @@ date: 2016-11-14
 tag: Woodworking
 span: Ongoing
 desc: An elegant approach to the coffee scoop
-thumbnail: scoop.jpg
+thumbnail: scoopGrey.jpg
 ---
 
 **An elegant approach to the coffee scoop with a grounded design.**
