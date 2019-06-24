@@ -30,7 +30,7 @@ permalink: /works/
   {% for project in project_order %}
     <div class="column small-12 medium-4 tile">
     <a href="{{ project.url | prepend: site.baseurl }}">
-      <div class="thumbnail-container">
+      <div class="thumbnail-container hover">
         <img src="../img/thumbnails/{{ project.thumbnail }}" class="thumbnail-image"/>
         <div class="thumbnail-text">
         <span class="thumbnail-header">{{ project.title }}</span>
