@@ -370,6 +370,13 @@ ul {
 
   .is-off-canvas-open .off-canvas-content {
     margin-top: 50px; }
+  .is-off-canvas-open .aboutcontent {
+    margin-top: 80px; }
+  .is-off-canvas-open .post {
+    margin-top: 100px; }
+
+  .off-canvas-wrapper {
+    margin-top: 0px; }
 
   .post-title {
     margin-left: 0px; }
