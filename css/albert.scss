@@ -437,13 +437,8 @@ ul {
     z-index: 2;
   }
   
-  .off-canvas-wrapper-inner{
-    margin-top: 50px;
-  }
 
-  .is-off-canvas-open{
-    margin-top: 0px; 
-  }
+
 
   .post-content{
     p{
@@ -486,6 +481,15 @@ ul {
     margin-top: 50px;
   }
   
+    .is-off-canvas-open{
+    margin-top: 0px; 
+  }
+  
+  .is-off-canvas-open {
+    .off-canvas-content{
+    margin-top: 50px;
+  }
+  }
     .post-title {
         margin-left: 0px;
     }

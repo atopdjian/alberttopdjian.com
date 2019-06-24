@@ -336,12 +336,6 @@ ul {
     background-color: white;
     z-index: 2; }
 
-  .off-canvas-wrapper-inner {
-    margin-top: 50px; }
-
-  .is-off-canvas-open {
-    margin-top: 0px; }
-
   .post-content p {
     margin-right: 20px; } }
 /*(for tablet styling) */
@@ -369,6 +363,12 @@ ul {
     margin-right: 20px; }
 
   .off-canvas-wrapper-inner {
+    margin-top: 50px; }
+
+  .is-off-canvas-open {
+    margin-top: 0px; }
+
+  .is-off-canvas-open .off-canvas-content {
     margin-top: 50px; }
 
   .post-title {
