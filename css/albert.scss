@@ -354,7 +354,7 @@ ul {
     list-style: none;
 }
 
-
+/*
 .albert-container:hover img:first-child {
     display: none;
 }
@@ -369,6 +369,18 @@ ul {
 
 .albert-container:hover img:last-child {
     display: inline-block;
+}
+*/
+
+.albert-hover{
+  display: none;
+}
+
+a.bear:hover {
+  .albert-hover{
+    display: inline;
+    z-index: 2; 
+  }
 }
 
 

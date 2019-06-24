@@ -271,17 +271,29 @@ ul {
   margin-left: 0px;
   list-style: none; }
 
+/*
 .albert-container:hover img:first-child {
-  display: none; }
+    display: none;
+}
 
 .albert:hover {
-  opacity: 0.0; }
+    opacity: 0.0;
+}
 
 .albert-container img:last-child {
-  display: none; }
+    display: none;
+}
 
 .albert-container:hover img:last-child {
-  display: inline-block; }
+    display: inline-block;
+}
+*/
+.albert-hover {
+  display: none; }
+
+a.bear:hover .albert-hover {
+  display: inline;
+  z-index: 2; }
 
 .post-content {
   padding-top: 20px; }
