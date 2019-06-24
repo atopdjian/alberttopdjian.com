@@ -131,7 +131,8 @@ a {
   transition: transform .5s ease;
   backface-visibility: hidden;
   z-index: 1;
-  box-shadow: 0 0 0px; }
+  box-shadow: 0 0 0px;
+  -webkit-overflow-scrolling: touch; }
 
 .off-canvas-wrapper {
   height: 100vh; }
