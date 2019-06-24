@@ -181,7 +181,6 @@ a {
     backface-visibility: hidden;
     z-index: 1;
     box-shadow: 0 0 0px;
-  -webkit-overflow-scrolling: touch;
 }
 
 .off-canvas-wrapper{
@@ -355,7 +354,7 @@ ul {
     list-style: none;
 }
 
-
+/*
 .albert-container:hover img:first-child {
     display: none;
 }
@@ -370,6 +369,18 @@ ul {
 
 .albert-container:hover img:last-child {
     display: inline-block;
+}
+*/
+
+.albert-hover{
+  display: none;
+}
+
+a.bear:hover {
+  .albert-hover{
+    display: inline;
+    z-index: 2; 
+  }
 }
 
 
