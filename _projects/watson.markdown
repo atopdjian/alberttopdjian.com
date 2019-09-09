@@ -9,7 +9,7 @@ desc: Developing the brand and online experience for the wats:ON Festival
 thumbnail: watson.png
 ---
 
-**Working with CMU's wats:ON Festival to develop their brand identity and web presence.**
+**Working with the wats:ON Festival to develop their brand identity and web presence.**
 
 <div>
 <img src="../img/watson/hero.png">
