@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 2
+order: 3
 title: "American Eagle Outfitters"
 date: 2016-05-25
 tag: UX
