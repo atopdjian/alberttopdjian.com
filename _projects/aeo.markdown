@@ -11,7 +11,7 @@ thumbnail: aeo.png
 **Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve manager and associate workflow through motivation communication and community.**
 
 <div>
-<img src="../img/aeo/ipadscreens.png">
+<img src="../img/aeo/hero.png">
 </div>
 
 **Mobile Point of Sale Optimization**<br>
@@ -26,7 +26,7 @@ Most of the research was conducted on-site with both the associates and the stor
 
 <h1 style="color:#742bb5">Process</h1>
 
-Animated GIFs from user interface designs for the associate-customer experience using an iPad.
+UX and UI designs for the associate-customer experience using an iPad.
 
 
 <div class="gif-row" style="padding:0px; ">
