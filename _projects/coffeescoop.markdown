@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 6
+order: 7
 title: "Coffee Scoop"
 date: 2016-11-14
 tag: Woodworking

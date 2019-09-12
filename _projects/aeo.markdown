@@ -20,7 +20,7 @@ In Collaboration with American Eagle Outfitters and <a target="_blank" href="htt
 
 We worked alongside American Eagle Outfitters to help them improve their customer experience, with a focus on their mobile point of sale service. We were tasked with design research (on-site and off-site), developing system maps and user activities to gather data, and creating mockups and visual designs to propose a new solution to their workflow.
 
-Most of the research was conducted on-site with both the associates and the store customers. Bi-weekly check-in presentations with AEO representatives were held, and culminated with a presentation and demo of our final product to corporate management at their headquarters.
+Most of the research was conducted on-site with both the associates and the store customers. Bi-weekly check-in presentations with AEO representatives were held, and culminated with a presentation and demo of our final product to corporate management.
 
 <iframe style="margin-bottom:30px; margin-top:30px;" width="100%" height="400" src="https://www.youtube.com/embed/TLeKtPEjSps?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -48,18 +48,36 @@ Animated GIFs from user interface designs for the associate-customer experience 
     </div>
 </div>
 
+Analysing the stakeholders around the purchasing experience.
 
+<div>
+<img src="../img/aeo/stakeholder.png">
+</div>
+
+Taking a dive into the customer's journey.
+
+<div>
+<img src="../img/aeo/journeymaps.png">
+<img src="../img/aeo/journeymapping.png">
+</div>
+
+Comparing similar brick and mortar floor plan layouts to look at customer flow through the space.
+
+<div>
+<img src="../img/aeo/floorplans.png">
+</div>
+
+Compiling artifacts from the associate store experience.
+
+<div>
+<img src="../img/aeo/associatecontent.png">
+</div>
 
 The associate workflows before and after our proposed redesign.   
-    
 
 <div>
 <img src="../img/aeo/before.png">
 <img src="../img/aeo/after.png">
-<img src="../img/aeo/3%20point.png">
-<img src="../img/aeo/wall%20posts.png">
-<img src="../img/aeo/wall%20posts%202.png">
-<img style="margin-top:10px; margin-bottom: 10px;" src="../img/aeo/process1.png">
 </div>
 
 <!---<div class="gallery">
