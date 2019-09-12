@@ -6,7 +6,7 @@ date: 2016-02-01
 tag: UX/UI
 span: Ongoing
 desc: Redesigning the online experience for LucidNYC
-thumbnail: lucidnyc2.png
+thumbnail: lucidnyc3.jpeg
 ---
 
 **Developing the brand identity and web presence for LucidNYC.**
