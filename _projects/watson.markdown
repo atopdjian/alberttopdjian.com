@@ -3,7 +3,7 @@ layout: post
 order: 4
 title: "WATS:ON?"
 date: 2016-11-01
-tag: UX/UI
+tag: Design Consulting - UX/UI
 span: Ongoing
 desc: Developing the brand and online experience for the wats:ON Festival
 thumbnail: watson.png

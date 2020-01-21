@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 6
+order: 7
 title: "EXAID"
 date: 2016-05-25
 tag: UX

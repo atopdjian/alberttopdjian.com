@@ -1,9 +1,9 @@
 ---
 layout: post
-order: 2
+order: 3
 title: "CMU NYC"
 date: 2016-02-01
-tag: UX/UI
+tag: Design Consulting - UX/UI
 span: Ongoing
 desc: Developing the brand and online experience for CMU's NYC programs
 thumbnail: nyc.png

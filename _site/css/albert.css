@@ -112,6 +112,14 @@ a {
   margin-top: 10px;
   font-size: 9px; }
 
+/*(for label and time stylint) */
+time {
+  margin-left: 50px; }
+
+/*(for label and time stylint) */
+.medium-2 {
+  width: 22%; }
+
 .thumbnail {
   border: 0px;
   box-shadow: 0 0 0 0px;
@@ -322,6 +330,9 @@ ul {
   .about-body {
     padding-left: 10px; }
 
+  .small-4 {
+    width: 100%; }
+
   .nav-content {
     height: 100vh;
     position: relative;
@@ -362,6 +373,12 @@ ul {
     padding-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px; }
+
+  .small-4 {
+    width: 100%; }
+
+  time {
+    margin-left: 0px; }
 
   p,
   h1,
