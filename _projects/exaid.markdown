@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 6
+order: 7
 title: "EXAID"
 date: 2016-05-25
 tag: UX
@@ -9,7 +9,7 @@ desc: Applying cutting-edge deep learning algorithms to analyze medical images
 thumbnail: exaidBlack.jpg
 ---
 
-**EXAID applies cutting-edge deep learning algorithms to analyze medical images.**
+**EXAID applies cutting-edge deep learning algorithms to analyze medical images**
 
 <div>
 <img src="../img/exaid/exaid%20screen.png">

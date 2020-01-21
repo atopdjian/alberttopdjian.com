@@ -3,13 +3,13 @@ layout: post
 order: 5
 title: "Lucid NYC"
 date: 2016-02-01
-tag: UX/UI
+tag: Design Consulting - UX/UI
 span: Ongoing
 desc: Redesigning the online experience for LucidNYC
 thumbnail: lucidnyc3.jpeg
 ---
 
-**Developing the brand identity and web presence for LucidNYC.**
+**Developing the brand identity and web presence for LucidNYC**
 
 <div>
 <img src="../img/lucidnyc/hero.png">

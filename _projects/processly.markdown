@@ -1,14 +1,14 @@
 ---
 layout: post
-order: 1
+order: 2
 title: "Processly"
 date: 2018-08-05
-tag: Startup
+tag: CoFounder & CEO - Startup
 span: Ongoing
 desc: An EdTech startup productizing an infinite online whiteboard for multi-media collaborative learning
 thumbnail: processly.png
 ---
-**Processly is an EdTech startup productizing an infinite online whiteboard for multi-media collaborative learning.**
+**Processly is an EdTech startup productizing an infinite online whiteboard for multi-media collaborative learning**
 
 <div>
 <img src="../img/processly/processlyhome.png">
