@@ -9,7 +9,7 @@ desc: Developing the brand and online experience for CMU's NYC programs
 thumbnail: nyc.png
 ---
 
-**Working with CMU's NYC programs to develop their brand identity and web presence.**
+**Working with CMU's NYC programs to develop their brand identity and web presence**
 
 <div>
 <img src="../img/cmunyc/hero.png">

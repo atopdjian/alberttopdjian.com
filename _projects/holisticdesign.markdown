@@ -9,7 +9,7 @@ desc: A deep reflection into what Design means to me
 thumbnail: holistic.png
 ---
 
-**A deep reflection into what Design means to me.**
+**A deep reflection into what Design means to me**
 
 <iframe src="https://player.vimeo.com/video/189889759?color=742bb5&portrait=0" style="margin-bottom:30px" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

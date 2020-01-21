@@ -8,7 +8,7 @@ span: Ongoing
 desc: Designing a new system for manager and associate workflows
 thumbnail: aeo.png
 ---
-**Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve manager and associate workflow through motivation communication and community.**
+**Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve manager and associate workflow through motivation communication and community**
 
 <div>
 <img src="../img/aeo/hero.png">

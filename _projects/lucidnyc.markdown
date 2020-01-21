@@ -9,7 +9,7 @@ desc: Redesigning the online experience for LucidNYC
 thumbnail: lucidnyc3.jpeg
 ---
 
-**Developing the brand identity and web presence for LucidNYC.**
+**Developing the brand identity and web presence for LucidNYC**
 
 <div>
 <img src="../img/lucidnyc/hero.png">
