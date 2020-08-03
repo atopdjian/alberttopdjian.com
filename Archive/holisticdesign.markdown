@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 order: 8
@@ -8,6 +9,7 @@ span: Ongoing
 desc: A deep reflection into what Design means to me
 thumbnail: holistic.png
 ---
+-->
 
 **A deep reflection into what Design means to me**
 
