@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 order: 7
@@ -8,6 +9,7 @@ span: Ongoing
 desc: Applying cutting-edge deep learning algorithms to analyze medical images
 thumbnail: exaidBlack.jpg
 ---
+-->
 
 **EXAID applies cutting-edge deep learning algorithms to analyze medical images**
 
