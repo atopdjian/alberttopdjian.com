@@ -3,9 +3,9 @@ layout: post
 order: 1
 title: "TalkMeUp"
 date: 2019-06-01
-tag: Design Consulting - UX/UI
+tag: Chief Design Officer - Startup
 span: Ongoing
-desc: Designing an AI communications coach
+desc: AI-powered communications training
 thumbnail: talkmeup.png
 ---
 
