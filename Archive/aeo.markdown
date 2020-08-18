@@ -1,4 +1,4 @@
----
+<!-----
 layout: post
 order: 6
 title: "American Eagle Outfitters"
@@ -7,7 +7,7 @@ tag: Design Consulting - UX
 span: Ongoing
 desc: Designing a new system for manager and associate workflows
 thumbnail: aeo.png
----
+----->
 **Working with <a target="_blank" href="https://www.ae.com/">American Eagle Outfitters</a> to improve manager and associate workflow through motivation communication and community**
 
 <div>
