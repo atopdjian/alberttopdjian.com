@@ -324,8 +324,8 @@ p {
 }
 
 .mobileheader {
-    height: 0px;
-    background-color: white;
+    height: 50px;
+    background-color: $purple;
   width: 100%;
     position: fixed;
     top: 0;
@@ -452,7 +452,7 @@ ul {
     }
   
   .aboutcontent {
-    margin-top: -50px;
+    margin-top: 0px;
     margin-right: 0px;
   }
   
