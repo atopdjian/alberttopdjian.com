@@ -17,6 +17,10 @@ $regular: 400;
 $bold: 700;
 $black: 900;
 
+.aboutcontent{
+  margin-left: 50px;
+}
+
 .inprogress {
     font-family: $font-default;
     font-size: 15px;
@@ -425,6 +429,9 @@ ul {
     padding-left: 10px;
     }
   
+  .aboutcontent{
+  margin-left: 0px;
+}
   .small-4 {
     width: 100%;
   }
@@ -436,6 +443,7 @@ ul {
     padding-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
+    display: none;
     }   
     
     .bab {
@@ -484,6 +492,7 @@ ul {
     padding-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
+    display: none;
     }   
     
   .small-4 {
