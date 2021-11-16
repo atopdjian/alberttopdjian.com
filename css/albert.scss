@@ -21,6 +21,10 @@ $black: 900;
   margin-left: 50px;
 }
 
+.off-canvas position-left reveal-for-large side-nav{
+  display: none;
+}
+
 .inprogress {
     font-family: $font-default;
     font-size: 15px;
@@ -103,6 +107,7 @@ img.thumbnail-image{
     position: fixed;
     background-color: white;
     z-index: 2;
+  display: none;
 }
 
 .off-canvas.position-left {
@@ -460,6 +465,7 @@ ul {
     position: fixed;
     background-color: white;
     z-index: 2;
+    display: none;
   }
   
 
